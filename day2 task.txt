@@ -1,0 +1,24 @@
+String concatenation -joining two strings
+    a="30 Days"
+    b="30 Hours"
+    c=a+b
+    print(c)
+    
+     output:30Days30Hours
+
+Adding space during concatenation 
+   
+    a="30 Days"
+    b="30 Hours"
+    c=a+" "+b
+    print(c)
+    
+    output:30Days  30Hours
+
+casefold()-Usage
+
+    text="Thirty days and Thirty hours"
+    x=text.casefold()
+    print(x)
+     
+     output:thirty days and thirty hours

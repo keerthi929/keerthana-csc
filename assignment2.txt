@@ -1,0 +1,41 @@
+How to print a value?
+print("30 days 30 hour challenge")
+print('10 days 10 hour challenge')
+    
+output:30 days 30 hour challenge
+output:10 days 10 hour challenge
+
+ Assigning string to variable:  
+Hours = "fifty"
+print(Hours)
+
+ output:fifty
+
+   Indexing using string:
+days="Thirty days"
+print(days[0])
+print(days[5])
+   
+  output:T
+  output:y
+   How to print the particular character from certain text?
+Challenge="I will win"
+print(Challenge[7:10])
+print(Challenge[2:5])
+
+    output:win
+    output:will
+
+  print length of a character:
+Challenge="I will win"
+print(len(Challenge))
+
+  output:10
+
+  convert string into lower character:
+Challenge="I Will Win"
+print(Challenge.lower())
+print(Challenge.upper())
+
+  output:i will win
+  output:I WILL WIN

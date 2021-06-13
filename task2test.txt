@@ -1,0 +1,17 @@
+      test
+
+text="DON'T TROUBLE TROUBLE UNTILL  TROUBLE TROUBLES YOU"
+x=text.capitalize()
+print(x)
+y=text.find("ble")
+print(y)
+z=text.isalpha()
+print(z)
+a=text.isalnum()
+print(a)
+     
+     output:
+            Don't trouble trouble untill  trouble troubles you
+           -1
+           False
+           False
