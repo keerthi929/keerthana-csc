@@ -1,0 +1,15 @@
+#merge two dictionaries
+
+
+d1={'Name':'swetha',  'Id':5060,'salary':10000,'Ctc':300}
+d2={'medicine':400,'contribution':850,'probatitionarytax':550,'travel':1000}
+d1.update(d2)
+print(d1)
+
+
+
+           # output
+
+{'Name': 'swetha', 'Id': 5060, 'salary': 10000, 'Ctc': 300, 'medicine': 400, 'contribution': 850, 'probatitionarytax': 550, 'travel': 1000}
+
+[Program finished]
