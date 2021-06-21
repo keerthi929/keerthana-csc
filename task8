@@ -1,0 +1,12 @@
+
+
+d1={"Name":"Swetha',  "Id":6790,"salary":100000,"ctc":900}
+d2={"medicine":400,"contribution":450,"probatitionarytax";550,"travel":1000}
+d1.update(d2)
+print(d1)
+
+
+
+     #Output
+{"Name":"Swetha',  "Id":6790,"salary":100000,"ctc":900,"medicine":400,"contribution":450,"probatitionarytax";550,"travel":1000}
+    program finished
